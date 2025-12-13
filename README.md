@@ -1,3 +1,1 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thasegawadesign&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thasegawadesign&theme=github)
+![GitHub stats](https://raw.githubusercontent.com/thasegawadesign/thasegawadesign/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg)
